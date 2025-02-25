@@ -1,0 +1,6 @@
+@ContactVault_HostAddress = http://localhost:5038
+
+GET {{ContactVault_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
